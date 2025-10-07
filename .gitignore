@@ -1,0 +1,20 @@
+# vscode & VIM & JetBrain
+.vscode/
+.idea
+
+# Mac system files
+.DS_Store
+
+# cache
+*__pycache__
+cache
+
+# log files
+*.log
+
+# *.ipynb
+*.txt
+*.png
+# *.json
+
+model_weights
